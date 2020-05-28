@@ -12,7 +12,7 @@ import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 
 public class WeatherDataLoader {
-    private static final String API_KEY = "b89dac6a134713d9ac8af75b595edb0f";
+    private static final String API_KEY = "YOUR_KEY_GOES_HERE";
     private static final String URL_ENDPOINT_WEATHER = "https://api.openweathermap.org/data/2.5/weather";
     private static final String URL_ENDPOINT_FORECAST = "https://api.openweathermap.org/data/2.5/forecast";
 
